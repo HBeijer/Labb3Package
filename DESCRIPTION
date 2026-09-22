@@ -1,0 +1,21 @@
+Package: Labb3Package
+Type: Package
+Title: Dijkstras and Ecludis algorithm
+Version: 0.1.0
+Authors@R: c(
+    person(
+      "Hampus", "Beijer",
+      email = "hambe399@student.liu.se",
+      role = c("aut", "cre")
+    ),
+    person(
+      "Thai", "Pham",
+      email = "duyph635@student.liu.se",
+      role = c("aut")
+    )
+  )
+Description: This package contains function for the Euclid's algorithm and the Dijkstra's algorithm.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.3.3

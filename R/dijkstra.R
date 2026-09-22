@@ -61,5 +61,5 @@ dijkstra <- function(graph, init_node){
       current <- nodes[which.min(candidate_dist)]
   }
 
-  return(dist)
+  return(unname(dist))
 }

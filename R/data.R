@@ -2,7 +2,7 @@
 #'
 #' This is the graph used in Dijkstra's Algorithm. It comes from Wikipedia.
 #'
-#' @format Includes a data frame with 18 rows and 3 variables:
+#' @format Includes the data frame with the three variables.
 #' \describe{
 #'   \item{v1}{Starting node.}
 #'   \item{v2}{End node.}
